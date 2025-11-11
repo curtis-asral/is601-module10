@@ -1,3 +1,7 @@
+Docker Hub Repo: https://hub.docker.com/repository/docker/curtisasral/601_module10/general
+
+Test Locally: `pytest -v`
+
 # 📦 Project Setup
 
 ---
